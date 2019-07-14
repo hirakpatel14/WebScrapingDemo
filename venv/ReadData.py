@@ -12,4 +12,4 @@ class Read:
 
         # Print the data
         for row in cursor:
-            print('row = %r' % (row,))
+            print('row data = %r' % (row,))
