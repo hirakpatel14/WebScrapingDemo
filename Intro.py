@@ -13,4 +13,4 @@ x = {
   ]
 }
 
-print(x)
+print(x["cars"][0]["model"])
